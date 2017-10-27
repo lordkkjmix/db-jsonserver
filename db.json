@@ -8,7 +8,17 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+   "users": [
+    { "id": 1, "name": "john doe", "lat":43.2545, "lng":-124.25552},
+    { "id": 2, "name": "calipso", "lat":42.2545, "lng":-124.25552},
+  ],
+ "photos": [
+    { "id": 1, "title": "Photo 1", "img":"http://lienimage" , "albumid": 1 },
+    { "id": 2, "title": "Photo 2", "img":"http://lienimage" ,"albumid": 2 },
+    { "id": 3, "title": "Photo 3", "img":"http://lienimage", "albumid": 1 }
+  ],
+  "albums": [
+    { "id": 1, "body": "albumene" },
+    { "id": 2, "body": "protoso" }
+  ],
 }
