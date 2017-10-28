@@ -8,14 +8,11 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "users": [
+  "profile": [
    { "id": 1, "nom": "john", "latitude": 1, "longitude":2 },
    { "id": 1, "nom": "petia", "latitude": 1,"longitude":2}
     
-   ],
+   ]
     
 
-  "profile": {
-    "name": "typicode"
-  }
 }
