@@ -8,7 +8,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 },
   ],
-   "users": [
+   "utilisateurs": [
     { "id": 1, "name": "john doe", "latitude":"43.2545", "longitude":"-124.25552"},
     { "id": 2, "name": "calipso", "latitude":"42.2545", "longitude":"-123.25552"},
   ],
