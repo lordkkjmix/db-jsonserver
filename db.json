@@ -20,6 +20,6 @@
     { "id": 1, "title": "Photo 1", "img":"mmjk.jpg" , "albumid": 1 },
     { "id": 2, "title": "Photo 2", "img":"hnjhj.jpg" ,"albumid": 2 },
     { "id": 3, "title": "Photo 3", "img":"nfggf.jpg", "albumid": 1 },
-  ],
+  ]
   
 }
