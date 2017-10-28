@@ -9,16 +9,16 @@
     { "id": 2, "body": "some comment", "postId": 1 },
   ],
    "users": [
-    { "id": 1, "name": "john doe", "latitude":43.2545, "longitude":-124.25552},
-    { "id": 2, "name": "calipso", "latitude":42.2545, "longitude":-124.25552},
+    { "id": 1, "name": "john doe", "latitude":"43.2545", "longitude":"-124.25552"},
+    { "id": 2, "name": "calipso", "latitude":"42.2545", "longitude":"-124.25552"},
   ],
  "photos": [
     { "id": 1, "title": "Photo 1", "img":"http://lienimage" , "albumid": 1 },
     { "id": 2, "title": "Photo 2", "img":"http://lienimage" ,"albumid": 2 },
-    { "id": 3, "title": "Photo 3", "img":"http://lienimage", "albumid": 1 }
+    { "id": 3, "title": "Photo 3", "img":"http://lienimage", "albumid": 1 },
   ],
   "albums": [
     { "id": 1, "label": "albumene" },
-    { "id": 2, "label": "protoso" }
+    { "id": 2, "label": "protoso" },
   ],
 }
