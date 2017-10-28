@@ -8,21 +8,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-   "utilisateurs": [
-    { "id": 1, "name": "john doe", "latitude":"43.2545", "longitude":"-124.25552"},
-    { "id": 2, "name": "calipso", "latitude":"42.2545", "longitude":"-123.25552"}
-  ],
-  "albums": [
-    { "id": 1, "label": "albumene" },
-    { "id": 2, "label": "protoso" }
-  ],
- "photos": [
-    { "id": 1, "title": "Photo 1", "img":"mmjk.jpg" , "albumid": 1 },
-    { "id": 2, "title": "Photo 2", "img":"hnjhj.jpg" ,"albumid": 2 },
-    { "id": 3, "title": "Photo 3", "img":"nfggf.jpg", "albumid": 1 }
-  ],
-   "profile": {
+  "profile": {
     "name": "typicode"
   }
-  
 }
